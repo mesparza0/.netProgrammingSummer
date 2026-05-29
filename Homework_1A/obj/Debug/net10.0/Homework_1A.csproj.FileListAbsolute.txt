@@ -1,0 +1,15 @@
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.AssemblyInfoInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.AssemblyInfo.cs
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.csproj.CoreCompileInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.sourcelink.json
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/bin/Debug/net10.0/Homework_1A
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/bin/Debug/net10.0/Homework_1A.deps.json
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/bin/Debug/net10.0/Homework_1A.runtimeconfig.json
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/bin/Debug/net10.0/Homework_1A.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/bin/Debug/net10.0/Homework_1A.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/refint/Homework_1A.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/Homework_1A.genruntimeconfig.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/Homework_1A/obj/Debug/net10.0/ref/Homework_1A.dll
