@@ -1,0 +1,15 @@
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/bin/Debug/net10.0/LoanRepaymentScheduleHW3
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/bin/Debug/net10.0/LoanRepaymentScheduleHW3.deps.json
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/bin/Debug/net10.0/LoanRepaymentScheduleHW3.runtimeconfig.json
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/bin/Debug/net10.0/LoanRepaymentScheduleHW3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/bin/Debug/net10.0/LoanRepaymentScheduleHW3.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.AssemblyInfoInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.AssemblyInfo.cs
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.csproj.CoreCompileInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.sourcelink.json
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/refint/LoanRepaymentScheduleHW3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/LoanRepaymentScheduleHW3.genruntimeconfig.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/LoanRepaymentScheduleHW3/obj/Debug/net10.0/ref/LoanRepaymentScheduleHW3.dll

@@ -1,0 +1,15 @@
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.AssemblyInfoInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.AssemblyInfo.cs
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.sourcelink.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/bin/Debug/net10.0/ProgrammingAssignment3
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/bin/Debug/net10.0/ProgrammingAssignment3.deps.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/bin/Debug/net10.0/ProgrammingAssignment3.runtimeconfig.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/bin/Debug/net10.0/ProgrammingAssignment3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/bin/Debug/net10.0/ProgrammingAssignment3.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/refint/ProgrammingAssignment3.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ProgrammingAssignment3.genruntimeconfig.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment3/obj/Debug/net10.0/ref/ProgrammingAssignment3.dll
