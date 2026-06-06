@@ -11,6 +11,7 @@ class Program
     // This structure stores one inventory record from invento.txt.
     struct InventoryItem
     {
+        // this structure has 5 fields: StockID, Price, StockDescription, ItemsOnStock, and ItemsOrdered
         public string StockID;
         public double Price;
         public string StockDescription;
@@ -19,19 +20,24 @@ class Program
     }
 
     static void Main(string[] args)
+    
+    // This method is the main entry point of the program. It loads inventory records, displays a menu, and processes each user eachchoices.
     {
         List<InventoryItem> inventoryList = new List<InventoryItem>();
 
         LoadInventory(inventoryList);
 
         int choice = -1;
-
+         
+         // do while loop that will display the menu and process each user choice until the users quits (0)
         do
         {
             DisplayMenu();
 
             bool validChoice = int.TryParse(Console.ReadLine(), out choice);
 
+
+            // If the user input is not a valid integer, display an error message and prompt again.
             if (!validChoice)
             {
                 Console.WriteLine("Invalid input. Please enter a number.");
@@ -39,7 +45,10 @@ class Program
             }
 
             switch (choice)
+            // This switch statement processes the user's choice and calls the corresponding method for each menu option.
             {
+
+                // for each case it will call that specific method and break out of the switch statement
                 case 1:
                     DeleteFirstRecord(inventoryList);
                     break;
@@ -99,6 +108,7 @@ class Program
     // This method loads all inventory records from the input file into the list.
     static void LoadInventory(List<InventoryItem> inventoryList)
     {
+        // adding the file that was given to us in the assignment instructions
         string fileName = "invento.txt";
 
         if (!File.Exists(fileName))
@@ -150,6 +160,9 @@ class Program
     // 6.1 This method deletes the first record in the table.
     static void DeleteFirstRecord(List<InventoryItem> inventoryList)
     {
+
+        // if the list is not empty then it will remove the first record and show a message confirming it was deleted.
+        // otherwise if the list is empty it will show a message showing that
         if (inventoryList.Count > 0)
         {
             inventoryList.RemoveAt(0);
@@ -164,6 +177,7 @@ class Program
     // 6.2 This method sums the first numeric field, which is Price.
     static double SumPrices(List<InventoryItem> inventoryList)
     {
+        // this method will loop through the list and add up all the prices and return the total to the user
         double total = 0;
 
         foreach (InventoryItem item in inventoryList)
@@ -177,6 +191,8 @@ class Program
     // 6.3 This method finds the location of the largest ItemsOnStock value.
     static int FindLargestItemsOnStock(List<InventoryItem> inventoryList)
     {
+
+        // if the list is empty it will show a message and return -1
         if (inventoryList.Count == 0)
         {
             Console.WriteLine("The table is empty.");
@@ -185,6 +201,7 @@ class Program
 
         int largestLocation = 0;
 
+        // this method will loop through the list and compare the ItemsOnStock value of each record to find the largest one and return its location in the list
         for (int i = 1; i < inventoryList.Count; i++)
         {
             if (inventoryList[i].ItemsOnStock > inventoryList[largestLocation].ItemsOnStock)
@@ -198,6 +215,8 @@ class Program
 
     // 6.4 This method sorts records by stock description in ascending order.
     static void SortByDescription(List<InventoryItem> inventoryList)
+
+    // this method will sort the list by the StockDescription field in ascending order. 
     {
         inventoryList.Sort((a, b) => a.StockDescription.CompareTo(b.StockDescription));
         Console.WriteLine("The records have been sorted by stock description in ascending order.");
@@ -273,6 +292,7 @@ class Program
 
         int location = FindRecordUsingKey(inventoryList, key);
 
+        // if the record is not found it will show a message and return to the menu
         if (location == -1)
         {
             Console.WriteLine("Record was not found.");
@@ -286,6 +306,7 @@ class Program
         Console.Write("Are you sure you want to delete this record? (Y/N): ");
         string answer = Console.ReadLine();
 
+        // if the user selects delete then it will call the method to delete the record
         if (answer.ToUpper() == "Y")
         {
             DeleteRecordAtAddressLocation(inventoryList, location);
@@ -310,6 +331,8 @@ class Program
             return;
         }
 
+        // this method will have the user create a new record by entering specific values
+        // for each field and it will validate the input to make sure it is all correct
         InventoryItem newItem = new InventoryItem();
 
         newItem.StockID = key;
@@ -356,6 +379,8 @@ class Program
     // 6.9 This method displays all records on the screen.
     static void DisplayAllRecords(List<InventoryItem> inventoryList)
     {
+
+        // if the list is empty it will show a message and return back to the menu
         if (inventoryList.Count == 0)
         {
             Console.WriteLine("The table is empty.");
@@ -363,6 +388,8 @@ class Program
         }
 
         PrintHeader();
+
+        // this method will loop all through the list and print each record in a formatted way 
 
         foreach (InventoryItem item in inventoryList)
         {
@@ -372,7 +399,8 @@ class Program
 
     // This helper method prints the table headings.
     static void PrintHeader()
-    {
+    {   
+        // this method will print the header of the table
         Console.WriteLine();
         Console.WriteLine("{0,-10} {1,10} {2,-35} {3,15} {4,15}",
             "Stock ID", "Price", "Description", "On Stock", "Ordered");
@@ -383,6 +411,8 @@ class Program
     // This helper method prints one formatted record.
     static void PrintOneRecord(InventoryItem item)
     {
+
+        // this method will print one record in a formatted way 
         Console.WriteLine("{0,-10} {1,10:C} {2,-35} {3,15} {4,15}",
             item.StockID,
             item.Price,
