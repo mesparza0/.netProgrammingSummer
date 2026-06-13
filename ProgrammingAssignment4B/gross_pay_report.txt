@@ -1,0 +1,13 @@
+Gross-pay salary report
+
+Employee              Employee    First          Last               Weekly
+Type                  Number      Name           Name                  Pay
+--------------------------------------------------------------------------
+Commission Worker     356         Anthony        Mendez          $2,439.43
+Piece Worker          452         Jimmy          James             $424.53
+Piece Worker          765         Monica         Ramos           $1,711.47
+Commission Worker     442         Randy          Moreno          $1,835.05
+Piece Worker          324         Alma           Montes          $2,500.00
+Commission Worker     884         Marco          Duarte          $1,839.50
+
+Records skipped because they were not assigned classes: 6
