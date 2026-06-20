@@ -1,0 +1,10 @@
+PRODUCTS IN STOCK WITHOUT A PLACED ORDER
+
+PROD_CODE   PROD_DESCRIPT                             PROD_INDATE      PROD_QOH
+--------------------------------------------------------------------------------
+SW-23116    2.5-in. wd. screw, 50                     24-Feb-2022           237
+14-Q1/L3    9.00-in. pwr. saw blade                   13-Nov-2021            18
+2232/QWE    B&D jigsaw, 8-in. blade                   24-Dec-2021             6
+1558-QW1    Hrd. cloth, 1/2-in., 3x50                 15-Jan-2022            23
+11QER/31    Power painter, 15 psi., 3-nozzle          03-Nov-2021             8
+23114-AA    Sledge hammer, 12 lb.                     02-Jan-2022             8

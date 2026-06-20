@@ -1,0 +1,8 @@
+PRODUCTS WITH FIVE ITEMS OR LESS HIGHER THAN THEIR MINIMUM LEVEL
+
+PROD_CODE   PROD_DESCRIPT                             PROD_INDATE      PROD_QOH  PROD_MIN
+------------------------------------------------------------------------------------------
+11QER/31    Power painter, 15 psi., 3-nozzle          03-Nov-2021             8         5
+2232/QTY    B&D jigsaw, 12-in. blade                  30-Dec-2021             8         5
+2232/QWE    B&D jigsaw, 8-in. blade                   24-Dec-2021             6         5
+23114-AA    Sledge hammer, 12 lb.                     02-Jan-2022             8         5
