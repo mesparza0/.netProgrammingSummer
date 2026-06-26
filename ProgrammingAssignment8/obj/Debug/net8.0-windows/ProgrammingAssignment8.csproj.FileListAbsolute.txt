@@ -1,0 +1,15 @@
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/bin/Debug/net8.0-windows/ProgrammingAssignment8
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/bin/Debug/net8.0-windows/ProgrammingAssignment8.deps.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/bin/Debug/net8.0-windows/ProgrammingAssignment8.runtimeconfig.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/bin/Debug/net8.0-windows/ProgrammingAssignment8.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/bin/Debug/net8.0-windows/ProgrammingAssignment8.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.AssemblyInfoInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.AssemblyInfo.cs
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.csproj.CoreCompileInputs.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.sourcelink.json
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/refint/ProgrammingAssignment8.dll
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.pdb
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ProgrammingAssignment8.genruntimeconfig.cache
+/Users/marcosesparza/lewis/netProgrammingSummer/ProgrammingAssignment8/obj/Debug/net8.0-windows/ref/ProgrammingAssignment8.dll
